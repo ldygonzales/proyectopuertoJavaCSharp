@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmNNTKzc0zCC7FAKOsk4MxHgV/OoO5sAr4fWUmDD27/WMf0f4ddDz30zLnrk5+EgC/7u/U3ua+Efw/PGSnmglA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeitan\\eclipse-workspace\\puertoSerialSharp\\puertoSerialCsharp\\puertoSerialCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeitan\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zeitan\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zeitan\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zeitan\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zeitan\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zeitan\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Zeitan\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
